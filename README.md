@@ -60,7 +60,7 @@ To translate these features into plain language, the top 10 most indicative char
 * Whether they were once religious and became athiest
 * Whether they were a protestant from childhood to present
 * Whether the respondent was male
-* Whether the respondent was white
+* Whether the respondent was white <br/>
 Additionally , to assist in getting a better understanding of how these variables relate to the target variable, I color coded the bars such that the lighter colors indicate a positve correlation with one's score on the Rossi scale, and the darker color indicates a negative correlation. <br/>
 In light of the feature importances of this model, I would recommend Planned Parenthood to advertise in big urban cities, since they tend to lean towards being democratic. They could also advertise in college areas, as people living there are likely to be more highly educated,Moreover, rather than looking at the specific relgion a person follows, to look at how strict they are with their religious habits. <br/>
 If they were to have access to demographic data, they could also use this classification model to sort through large groups of people to select those who are likely to be interested in their services.
