@@ -74,7 +74,7 @@ Moving forward, I would look into expanding the feature space to include more at
 I would also explore more aspects of the discussion surrouding abortion beyond its legality to gain more insight into public opinion regarding this issue, and build a model that can classify level of support in a more holistic way.
 
 ## For More Information
-Please review my full analysis in the [github repository](https://github.com/Beatrixwmh/Reproductive_Rights_Analysis)) or [my presentation](https://github.com/Beatrixwmh/Reproductive_Rights_Analysis/blob/main/presentation.pdf). All the code used in this project can be run on google colab, access the notebook [here](https://colab.research.google.com/drive/17sWP3JexFAegoffSWVB3jqOd--Aetequ#scrollTo=oP3kd1ZbDKx3).
+Please review my full analysis in the [github repository](https://github.com/Beatrixwmh/Reproductive_Rights_Analysis) or [my presentation](https://github.com/Beatrixwmh/Reproductive_Rights_Analysis/blob/main/presentation.pdf). All the code used in this project can be run on google colab, access the notebook [here](https://colab.research.google.com/drive/17sWP3JexFAegoffSWVB3jqOd--Aetequ#scrollTo=oP3kd1ZbDKx3).
 For any additional questions, please contact Beatrix Wong, beatrix.wmh@hotmail.com
 
 ## Repository Structure
